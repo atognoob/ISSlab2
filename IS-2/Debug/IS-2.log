@@ -1,0 +1,4 @@
+﻿  IS-2.cpp
+C:\Users\ADMIN\OneDrive\Desktop\семестр 4\Интеллектуальные системы\ex2\IS-2\IS-2.cpp(107,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\семестр 4\Интеллектуальные системы\ex2\IS-2\IS-2.cpp(137,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  IS-2.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\семестр 4\Интеллектуальные системы\ex2\IS-2\Debug\IS-2.exe
